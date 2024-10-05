@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\data\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\models\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\models\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|d:\\cenfotec\\curso aks 2024\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215DF463-BC13-4AA3-BB1E-11BEA350E028}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Clientes.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Clientes.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoDbContext.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Data\\BancoDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\BancoDbContext.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Data\\BancoDbContext.cs*",
+              "RelativeToolTip": "WebApplication1\\Data\\BancoDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:46:00.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:13:44.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T16:04:07.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Cuentas.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Cuentas.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Cuentas.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Cuentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:47:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transacciones.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Transacciones.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Transacciones.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Models\\Transacciones.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Transacciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:48:03.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T00:17:17.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:52:37.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:26:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:21:40.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
