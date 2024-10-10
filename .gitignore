@@ -1,0 +1,9 @@
+# Ignorar archivos binarios y directorios
+*.bin
+WebApplication1/.vs/
+WebApplication1/WebApplication1/obj/
+WebApplication1/WebApplication1/bin/
+# Ignorar archivos binarios y directorios
+/WebApplication1/.vs/
+/WebApplication1/WebApplication1/obj/
+/WebApplication1/WebApplication1/bin/
