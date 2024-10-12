@@ -1,4 +1,6 @@
-﻿namespace WebApplication1.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace WebApplication1.Models
 {
     public class Clientes
     {
@@ -7,7 +9,10 @@
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public string Email { get; set; }
-        public string Telefono { get; set; }        
+        public string Telefono { get; set; }
+        public string Direccion { get; set; }
 
+        [Column("fecha_registro")]
+        public DateTime FechaRegisto { get; set; }
     }
 }

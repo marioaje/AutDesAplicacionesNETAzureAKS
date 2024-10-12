@@ -8,12 +8,19 @@ namespace WebApplication1.Data
     public class BancoDbContext : DbContext
     {
             public BancoDbContext(DbContextOptions <BancoDbContext> options )
+             : base( options )
             {
 
             }
 
-            public DbSet<Clientes> Clientes { get; set; }
-            public DbSet<Cuentas> Cuentas { get; set; }
+            public DbSet<Clientes> ProfM_Clientes { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Clientes>().ToTable("ProfM_Clientes");
+        }
+
+        public DbSet<Cuentas> Cuentas { get; set; }
             public DbSet<Transacciones> Transacciones { get; set; }
    
 
