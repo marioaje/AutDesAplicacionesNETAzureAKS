@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Cenfotec\\CursoAKS24-M7\\AutDesAplicacionesNETAzureAKS\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Cenfotec\\CursoAKS24-M7\\AutDesAplicacionesNETAzureAKS\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Cenfotec\\CursoAKS24-M7\\AutDesAplicacionesNETAzureAKS\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Cenfotec\\CursoAKS24-M7\\AutDesAplicacionesNETAzureAKS\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Mario Espinoza\\.nuget\\packages\\",
-        "outputPath": "D:\\Cenfotec\\Curso AKS 2024\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Cenfotec\\CursoAKS24-M7\\AutDesAplicacionesNETAzureAKS\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             },
             "MySqlConnector": {
               "target": "Package",
@@ -65,6 +73,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             }
           },
           "imports": [
@@ -86,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
